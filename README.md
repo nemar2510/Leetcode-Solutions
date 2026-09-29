@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/nemar2510/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1929-concatenation-of-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [1929-concatenation-of-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
