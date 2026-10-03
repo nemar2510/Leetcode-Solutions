@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
@@ -22,6 +24,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/nemar2510/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -40,6 +43,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -50,11 +54,13 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
