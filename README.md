@@ -71,4 +71,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
