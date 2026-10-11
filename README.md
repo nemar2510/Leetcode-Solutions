@@ -7,11 +7,13 @@
 | [0242-valid-anagram](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
