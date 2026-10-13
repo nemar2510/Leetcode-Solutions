@@ -78,6 +78,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
