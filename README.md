@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -59,6 +60,7 @@
 | [0027-remove-element](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
@@ -96,6 +98,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 ## Counting
 |  |
@@ -121,4 +124,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
