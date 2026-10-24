@@ -48,6 +48,7 @@
 | [0832-flipping-an-image](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/nemar2510/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
