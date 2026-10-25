@@ -78,6 +78,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/nemar2510/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nemar2510/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
